@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="preemtive priority scheduling/src"/>
+	<classpathentry kind="src" path="Round_Robin/src"/>
+	<classpathentry kind="src" path="SJF/src"/>
+	<classpathentry kind="output" path="Round_Robin/bin"/>
+</classpath>
